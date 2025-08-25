@@ -1,0 +1,37 @@
+# Ignore node modules
+node_modules/
+
+# Ignore test results and artifacts
+test-results/
+reports/*.html
+reports/*.json
+logs/
+
+# Ignore environment files with sensitive data
+.env.local
+.env.production
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore coverage reports
+coverage/
+
+# Ignore Playwright browsers (they can be downloaded)
+playwright-browsers/
+
+# Keep placeholder files
+!test-results/README.md
+!reports/README.md
+!logs/README.md

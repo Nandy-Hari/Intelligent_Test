@@ -1,0 +1,10 @@
+{
+  "lastSync": "2025-08-06T12:00:00.000Z",
+  "processedStories": {
+    "PROJ-456": {
+      "hash": "Implement user authentication system|As a user, I want to be able to log in securely so that I can access my personal account|1. Valid credentials should allow login\n2. Invalid credentials should show error\n3. Multiple failed attempts should lock account|2025-08-06T11:30:00.000Z",
+      "generatedAt": "2025-08-06T12:00:00.000Z",
+      "fileName": "proj-456-user-authentication.feature"
+    }
+  }
+}

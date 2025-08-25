@@ -1,0 +1,10 @@
+{
+  "lastSync": "2025-08-06T12:00:00.000Z",
+  "processedStories": {
+    "US1234": {
+      "hash": "User can filter products by category|As a user, I want to filter products by category so that I can quickly find items I'm interested in|1. Filter products by category using dropdown menu\n2. Filter products by price range\n3. Reset filters|",
+      "generatedAt": "2025-08-06T12:00:00.000Z",
+      "fileName": "us1234-filter-products.feature"
+    }
+  }
+}

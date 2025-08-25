@@ -1,0 +1,1 @@
+amazon-search.feature is no longer needed and can be deleted.
