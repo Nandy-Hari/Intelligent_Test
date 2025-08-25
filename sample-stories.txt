@@ -1,0 +1,7 @@
+As a user, I want to login to saucedemo with valid credentials so that I can access my account
+As a user, I want to add multiple items to my cart on saucedemo so that I can purchase them together
+As a user, I want to filter products by price low to high so that I can see the cheapest products first
+As a user, I want to remove an item from my cart so that I can update my order
+As a user, I want to complete the checkout process with valid information so that I can make a purchase
+As a user, I want to verify that error messages display when required fields are left empty during checkout
+As a user, I want to interact with form elements on demoqa.com so that I can test form submissions
